@@ -6,7 +6,7 @@ pipeline {
      AWS_ACCESS_KEY_ID     = credentials('abdulkarim-alyaqob-aws-secret-key-id')
      AWS_SECRET_ACCESS_KEY = credentials('abdulkarim-alyaqob-aws-secret-access-key')
 
-     AWS_S3_BUCKET         = "AbdulkarimAlyaqob-belt2d2-artifacts-2022"
+     AWS_S3_BUCKET         = "abdulkarim-belt2d2-artifacts-1111"
      AWS_REGION            = "us-east-1"
      ARTIFACT_NAME         = "spring-boot-rest-services-0.0.1-SNAPSHOT.jar"
      AWS_EB_APP_NAME       = "AbdulkarimAlyaqob-Belt2D2-EB"
