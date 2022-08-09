@@ -9,7 +9,7 @@ pipeline {
      AWS_S3_BUCKET         = "abdulkarim-belt2d2-artifacts-1111"
      AWS_REGION            = "us-east-1"
      ARTIFACT_NAME         = "spring-boot-rest-services-0.0.1-SNAPSHOT.jar"
-     AWS_EB_APP_NAME       = "AbdulkarimAlyaqob-Belt2D2-EB"
+     AWS_EB_APP_NAME       = "Abdulkarim-B2D2"
      AWS_EB_APP_VERSION    = "${BUILD_ID}"
      AWS_EB_ENVIRONMENT    = "Abdulkarimb2d2-env"
 
